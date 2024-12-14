@@ -36,6 +36,9 @@
 		<meta property="term" refines="#subject-2">sh85004320</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Mucker</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A street tough undergoes a transformation as he navigates the dangerous worlds of Chicago’s slums, a South Pacific island, and the wilds of Mexico.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Billy Byrne, a rough and unpolished young man, finds himself entangled in a series of unexpected events that lead him from the urban jungle of early 20th century Chicago to the high seas and, eventually, to revolutionary Mexico.&lt;/p&gt;
